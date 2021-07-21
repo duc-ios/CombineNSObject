@@ -1,0 +1,16 @@
+PODS:
+  - CombineNSObject (0.1.0)
+
+DEPENDENCIES:
+  - CombineNSObject (from `../`)
+
+EXTERNAL SOURCES:
+  CombineNSObject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CombineNSObject: d84ba23f834e3dd6f4b767aac0f9da301687a560
+
+PODFILE CHECKSUM: 1bde61d344a2445d80f340446e4006cd89d32007
+
+COCOAPODS: 1.10.1
