@@ -1,5 +1,5 @@
 PODS:
-  - CombineNSObject (0.1.0)
+  - CombineNSObject (0.0.2)
 
 DEPENDENCIES:
   - CombineNSObject (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CombineNSObject: d84ba23f834e3dd6f4b767aac0f9da301687a560
+  CombineNSObject: cf70b1d2fc5babc28303c18b2b5e444afdf548bd
 
 PODFILE CHECKSUM: 1bde61d344a2445d80f340446e4006cd89d32007
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.3

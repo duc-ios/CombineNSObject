@@ -7,17 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		34FC15516956023B4391859C333CBAB6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		6F23971F7B3837D2369DE117874368CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		98039263D0882AC875A1B153C29A0180 /* NSObject+Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F1CBDB19039A5E85492BE0124AADC07 /* NSObject+Combine.swift */; };
-		C293E258BD919D7EC96E1751919715EE /* Pods-CombineNSObject_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F14B6DF2960750D064E62897EDF0D46E /* Pods-CombineNSObject_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C904E5B2268D37F45D73D434516C5911 /* CombineNSObject-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 171931CB21D3EE4E61BCC5B00554B539 /* CombineNSObject-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CDF8B80E41C527FB5599968D13A9DB1B /* Pods-CombineNSObject_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 397E30E6321F188152B1AC82EAF1DFC7 /* Pods-CombineNSObject_Tests-dummy.m */; };
-		FD4D25569AD6DE9BDCB6EC021DC6F6D4 /* CombineNSObject-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 327BB8C9C7116B518061D7276ADFA8ED /* CombineNSObject-dummy.m */; };
+		169C671D3A1C021068BE8F9F390CD687 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		224C0794109332F3A9619187A39746A6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		27D0646C03AD3712CFDB9628E7878B24 /* CombineNSObject-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 327BB8C9C7116B518061D7276ADFA8ED /* CombineNSObject-dummy.m */; };
+		3417F0B5D16E8280F18FE76D9BB8BD93 /* CombineNSObject-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 171931CB21D3EE4E61BCC5B00554B539 /* CombineNSObject-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		927D4C430F63AAFF7B78E2B125740D7F /* Pods-CombineNSObject_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 397E30E6321F188152B1AC82EAF1DFC7 /* Pods-CombineNSObject_Tests-dummy.m */; };
+		CEB8FCAFC1B458546A90181E7EF32603 /* NSObject+Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F1CBDB19039A5E85492BE0124AADC07 /* NSObject+Combine.swift */; };
+		E31905A3FA56CA3A03B0696893612278 /* Pods-CombineNSObject_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F14B6DF2960750D064E62897EDF0D46E /* Pods-CombineNSObject_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		64E154775C89E358C21F521D0C8DD936 /* PBXContainerItemProxy */ = {
+		085B115B015B0CD80D7B4108AE7A6B7F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -32,7 +32,7 @@
 		29D66EBF84C48AEC20E2477F63A2DF29 /* Pods-CombineNSObject_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CombineNSObject_Tests.modulemap"; sourceTree = "<group>"; };
 		2C7A6874DC207D4314D22A1A8A905AFD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		327BB8C9C7116B518061D7276ADFA8ED /* CombineNSObject-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CombineNSObject-dummy.m"; sourceTree = "<group>"; };
-		34CA198EACAF28A43157E719C4EB62DA /* Pods_CombineNSObject_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CombineNSObject_Tests.framework; path = "Pods-CombineNSObject_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		34CA198EACAF28A43157E719C4EB62DA /* Pods-CombineNSObject_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-CombineNSObject_Tests"; path = Pods_CombineNSObject_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		397E30E6321F188152B1AC82EAF1DFC7 /* Pods-CombineNSObject_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CombineNSObject_Tests-dummy.m"; sourceTree = "<group>"; };
 		3B4F2899BAF68E6EC7EF11D1F1646ED1 /* Pods-CombineNSObject_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CombineNSObject_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		42BD0EA06D6E4AE32A789752DD49AA17 /* Pods-CombineNSObject_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CombineNSObject_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -41,7 +41,7 @@
 		6BA685B852039E1F2E93129DBA03C405 /* CombineNSObject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CombineNSObject.release.xcconfig; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7727D3B7F8F6C59F735E9B79AD2C9CD3 /* Pods-CombineNSObject_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CombineNSObject_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		9D89F6D4721E19FD19C24E03627DBFF3 /* CombineNSObject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CombineNSObject.framework; path = CombineNSObject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D89F6D4721E19FD19C24E03627DBFF3 /* CombineNSObject */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CombineNSObject; path = CombineNSObject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		ABE4F17DF1FC8362DCBA37B4AD1BCE68 /* CombineNSObject-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CombineNSObject-prefix.pch"; sourceTree = "<group>"; };
 		B0796FB6258D3A2B7739CB233E3B72FD /* CombineNSObject-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CombineNSObject-Info.plist"; sourceTree = "<group>"; };
@@ -54,19 +54,19 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1D237ADAA27140AB7AC4425733E06B94 /* Frameworks */ = {
+		941366438FB456EA8DE32EE6ADA53B36 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F23971F7B3837D2369DE117874368CB /* Foundation.framework in Frameworks */,
+				224C0794109332F3A9619187A39746A6 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BE788C1EFCF2EFEC721D9DE52E3E2CE8 /* Frameworks */ = {
+		D1878914D37833CA8387840AE0EBF121 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				34FC15516956023B4391859C333CBAB6 /* Foundation.framework in Frameworks */,
+				169C671D3A1C021068BE8F9F390CD687 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,15 +79,6 @@
 				BE19ED1B7A50F0D8F5B5C458B48BC137 /* Pods-CombineNSObject_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		3EE2A5D757F18461D964000E6A11B379 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				9D89F6D4721E19FD19C24E03627DBFF3 /* CombineNSObject.framework */,
-				34CA198EACAF28A43157E719C4EB62DA /* Pods_CombineNSObject_Tests.framework */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -119,6 +110,15 @@
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/CombineNSObject";
+			sourceTree = "<group>";
+		};
+		A7048260A20CFC98FDE3901EE2AFCE15 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9D89F6D4721E19FD19C24E03627DBFF3 /* CombineNSObject */,
+				34CA198EACAF28A43157E719C4EB62DA /* Pods-CombineNSObject_Tests */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		B3C9E3F3FA003AA1E8D9B56FDD2AB514 /* CombineNSObject */ = {
@@ -155,7 +155,7 @@
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				6E8A13A8A542CE7F3ADBC932C0CFACF9 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				3EE2A5D757F18461D964000E6A11B379 /* Products */,
+				A7048260A20CFC98FDE3901EE2AFCE15 /* Products */,
 				177FA8FD6B4DB9AD9AD23DC08C35D4D0 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -181,19 +181,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		56E3CB2642AD52630372D0983E7D61B2 /* Headers */ = {
+		5526218002067ABBCC8E48FD92932B06 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C293E258BD919D7EC96E1751919715EE /* Pods-CombineNSObject_Tests-umbrella.h in Headers */,
+				3417F0B5D16E8280F18FE76D9BB8BD93 /* CombineNSObject-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7288026FF6618B24577825DA907F98EE /* Headers */ = {
+		CD408DE222F0753CEA686F8AC46707A6 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C904E5B2268D37F45D73D434516C5911 /* CombineNSObject-umbrella.h in Headers */,
+				E31905A3FA56CA3A03B0696893612278 /* Pods-CombineNSObject_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,12 +202,12 @@
 /* Begin PBXNativeTarget section */
 		746DCAE9FB6F6092326EDD8EA2BD516D /* CombineNSObject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2379A7D36CDD044DDE00D148A4F20D35 /* Build configuration list for PBXNativeTarget "CombineNSObject" */;
+			buildConfigurationList = DD265B17C86E21AA37BB5C5CAC7B65B9 /* Build configuration list for PBXNativeTarget "CombineNSObject" */;
 			buildPhases = (
-				7288026FF6618B24577825DA907F98EE /* Headers */,
-				B41CD6FD051A426B583D43A0D0CDBC4A /* Sources */,
-				1D237ADAA27140AB7AC4425733E06B94 /* Frameworks */,
-				C413E87B60363957AED0E92386B82D69 /* Resources */,
+				5526218002067ABBCC8E48FD92932B06 /* Headers */,
+				0155A338CE4E34836838741865CC548D /* Sources */,
+				941366438FB456EA8DE32EE6ADA53B36 /* Frameworks */,
+				D8AB8D125E2F6F32C2AC62D9D25D37CD /* Resources */,
 			);
 			buildRules = (
 			);
@@ -215,26 +215,26 @@
 			);
 			name = CombineNSObject;
 			productName = CombineNSObject;
-			productReference = 9D89F6D4721E19FD19C24E03627DBFF3 /* CombineNSObject.framework */;
+			productReference = 9D89F6D4721E19FD19C24E03627DBFF3 /* CombineNSObject */;
 			productType = "com.apple.product-type.framework";
 		};
 		85B1FB246A8D928657A235E00C577EB9 /* Pods-CombineNSObject_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6B17E6095D7752FE5599D7A913DA03CD /* Build configuration list for PBXNativeTarget "Pods-CombineNSObject_Tests" */;
+			buildConfigurationList = BA6825F737EF971752DC84E27C10DF12 /* Build configuration list for PBXNativeTarget "Pods-CombineNSObject_Tests" */;
 			buildPhases = (
-				56E3CB2642AD52630372D0983E7D61B2 /* Headers */,
-				94D3CE14BD7F033597908A9B0F13B67E /* Sources */,
-				BE788C1EFCF2EFEC721D9DE52E3E2CE8 /* Frameworks */,
-				9718A9CF85035050E650F1DD599D3529 /* Resources */,
+				CD408DE222F0753CEA686F8AC46707A6 /* Headers */,
+				CF937BC4887B7639BD7D73D09F9AF53A /* Sources */,
+				D1878914D37833CA8387840AE0EBF121 /* Frameworks */,
+				FFDF350B60CA962DBCA11BF3E11A7A2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5CA199296007C5F9580994C6FA92EBD8 /* PBXTargetDependency */,
+				D3A6DE32EAEDE871127885C4AEB3E098 /* PBXTargetDependency */,
 			);
 			name = "Pods-CombineNSObject_Tests";
-			productName = "Pods-CombineNSObject_Tests";
-			productReference = 34CA198EACAF28A43157E719C4EB62DA /* Pods_CombineNSObject_Tests.framework */;
+			productName = Pods_CombineNSObject_Tests;
+			productReference = 34CA198EACAF28A43157E719C4EB62DA /* Pods-CombineNSObject_Tests */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -243,19 +243,19 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastSwiftUpdateCheck = 1300;
+				LastUpgradeCheck = 1300;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
 				Base,
+				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 3EE2A5D757F18461D964000E6A11B379 /* Products */;
+			productRefGroup = A7048260A20CFC98FDE3901EE2AFCE15 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -266,14 +266,14 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9718A9CF85035050E650F1DD599D3529 /* Resources */ = {
+		D8AB8D125E2F6F32C2AC62D9D25D37CD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C413E87B60363957AED0E92386B82D69 /* Resources */ = {
+		FFDF350B60CA962DBCA11BF3E11A7A2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -283,36 +283,36 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		94D3CE14BD7F033597908A9B0F13B67E /* Sources */ = {
+		0155A338CE4E34836838741865CC548D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDF8B80E41C527FB5599968D13A9DB1B /* Pods-CombineNSObject_Tests-dummy.m in Sources */,
+				27D0646C03AD3712CFDB9628E7878B24 /* CombineNSObject-dummy.m in Sources */,
+				CEB8FCAFC1B458546A90181E7EF32603 /* NSObject+Combine.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B41CD6FD051A426B583D43A0D0CDBC4A /* Sources */ = {
+		CF937BC4887B7639BD7D73D09F9AF53A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FD4D25569AD6DE9BDCB6EC021DC6F6D4 /* CombineNSObject-dummy.m in Sources */,
-				98039263D0882AC875A1B153C29A0180 /* NSObject+Combine.swift in Sources */,
+				927D4C430F63AAFF7B78E2B125740D7F /* Pods-CombineNSObject_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5CA199296007C5F9580994C6FA92EBD8 /* PBXTargetDependency */ = {
+		D3A6DE32EAEDE871127885C4AEB3E098 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = CombineNSObject;
 			target = 746DCAE9FB6F6092326EDD8EA2BD516D /* CombineNSObject */;
-			targetProxy = 64E154775C89E358C21F521D0C8DD936 /* PBXContainerItemProxy */;
+			targetProxy = 085B115B015B0CD80D7B4108AE7A6B7F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1AF524B106DB6A88DF58DABC93AF661D /* Debug */ = {
+		06DF62CF46E40ACA56A8821279B34981 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 42BD0EA06D6E4AE32A789752DD49AA17 /* Pods-CombineNSObject_Tests.debug.xcconfig */;
 			buildSettings = {
@@ -340,6 +340,106 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		09C94DEBC596FD970807D3615A9E2A70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BA685B852039E1F2E93129DBA03C405 /* CombineNSObject.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/CombineNSObject/CombineNSObject-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CombineNSObject/CombineNSObject-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/CombineNSObject/CombineNSObject.modulemap";
+				PRODUCT_MODULE_NAME = CombineNSObject;
+				PRODUCT_NAME = CombineNSObject;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		66F3C3845CEBB1F73290D4653B956968 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7727D3B7F8F6C59F735E9B79AD2C9CD3 /* Pods-CombineNSObject_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CombineNSObject_Tests/Pods-CombineNSObject_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CombineNSObject_Tests/Pods-CombineNSObject_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		755C2DD6085AF6CFBD293FB42F95BB7B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4A9B7DCB04558F7B1F3B19DFD7E7741B /* CombineNSObject.debug.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/CombineNSObject/CombineNSObject-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/CombineNSObject/CombineNSObject-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/CombineNSObject/CombineNSObject.modulemap";
+				PRODUCT_MODULE_NAME = CombineNSObject;
+				PRODUCT_NAME = CombineNSObject;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -474,118 +574,9 @@
 			};
 			name = Release;
 		};
-		CC2CEAE8D9488B7A9DA3027736546D55 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4A9B7DCB04558F7B1F3B19DFD7E7741B /* CombineNSObject.debug.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/CombineNSObject/CombineNSObject-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/CombineNSObject/CombineNSObject-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/CombineNSObject/CombineNSObject.modulemap";
-				PRODUCT_MODULE_NAME = CombineNSObject;
-				PRODUCT_NAME = CombineNSObject;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		CD2B45FEB1F0DDCBE17C5BB15AD62E7F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7727D3B7F8F6C59F735E9B79AD2C9CD3 /* Pods-CombineNSObject_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CombineNSObject_Tests/Pods-CombineNSObject_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CombineNSObject_Tests/Pods-CombineNSObject_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		DF45A77D329DF0B88931622B2728425A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6BA685B852039E1F2E93129DBA03C405 /* CombineNSObject.release.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/CombineNSObject/CombineNSObject-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/CombineNSObject/CombineNSObject-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/CombineNSObject/CombineNSObject.modulemap";
-				PRODUCT_MODULE_NAME = CombineNSObject;
-				PRODUCT_NAME = CombineNSObject;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2379A7D36CDD044DDE00D148A4F20D35 /* Build configuration list for PBXNativeTarget "CombineNSObject" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				CC2CEAE8D9488B7A9DA3027736546D55 /* Debug */,
-				DF45A77D329DF0B88931622B2728425A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -595,11 +586,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6B17E6095D7752FE5599D7A913DA03CD /* Build configuration list for PBXNativeTarget "Pods-CombineNSObject_Tests" */ = {
+		BA6825F737EF971752DC84E27C10DF12 /* Build configuration list for PBXNativeTarget "Pods-CombineNSObject_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1AF524B106DB6A88DF58DABC93AF661D /* Debug */,
-				CD2B45FEB1F0DDCBE17C5BB15AD62E7F /* Release */,
+				06DF62CF46E40ACA56A8821279B34981 /* Debug */,
+				66F3C3845CEBB1F73290D4653B956968 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD265B17C86E21AA37BB5C5CAC7B65B9 /* Build configuration list for PBXNativeTarget "CombineNSObject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				755C2DD6085AF6CFBD293FB42F95BB7B /* Debug */,
+				09C94DEBC596FD970807D3615A9E2A70 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
